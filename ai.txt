@@ -1,5 +1,13 @@
+#Bing Copilot
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bing.com
+
+#ChatGPT
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,openai.com
+
+#Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+
