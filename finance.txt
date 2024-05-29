@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,boc.cn,
+DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,bochk.com
