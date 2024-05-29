@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,cib.com.cn
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,jp-bank.japanpost.jp
+DOMAIN-SUFFIX,jcb.co.jp
+DOMAIN-SUFFIX,bankofchina.com
