@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,boc.cn,DIRECT,extended-matching // 中国银行
+DOMAIN-SUFFIX,icbc.com.cn,DIRECT,extended-matching // 工商银行
+DOMAIN-SUFFIX,cmbchina.com,DIRECT,extended-matching // 招商银行
+DOMAIN-SUFFIX,bochk.com,DIRECT,extended-matching // 中银香港
+DOMAIN-SUFFIX,za.group,DIRECT,extended-matching // 众安银行
+DOMAIN-SUFFIX,cib.com.cn,DIRECT,extended-matching // 兴业银行
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT,extended-matching // 汇丰香港
+DOMAIN-SUFFIX,ocbc.com,DIRECT,extended-matching // 华侨银行
+DOMAIN-SUFFIX,paypal.com,DIRECT,extended-matching // PayPal
