@@ -1,35 +1,44 @@
-#BOC
-DOMAIN-SUFFIX,boc.cn
-
-#ICBC
-DOMAIN-SUFFIX,icbc.com.cn
-
-#CMB
-DOMAIN-SUFFIX,cmbchina.com
-
-#BOC HK
-DOMAIN-SUFFIX,bochk.com
-
-#ZA Bank
-DOMAIN-SUFFIX,za.group
-
-#CIB
-DOMAIN-SUFFIX,cib.com.cn
-
-#HSBC HK
-DOMAIN-SUFFIX,hsbc.com.hk
-
-#OCBC
-DOMAIN-SUFFIX,ocbc.com
-
-#PayPal
+# PayPal
 DOMAIN-SUFFIX,paypal.com
 
-#Japan Post Bank
+# International, Bank of China
+DOMAIN-SUFFIX,bankofchina.com
+
+# China, BOC
+DOMAIN-SUFFIX,boc.cn
+
+# China, ICBC
+DOMAIN-SUFFIX,icbc.com.cn
+
+# China, CMB
+DOMAIN-SUFFIX,cmbchina.com
+
+# China, CIB
+DOMAIN-SUFFIX,cib.com.cn
+
+# Hong Kong, BOC 
+DOMAIN-SUFFIX,bochk.com
+
+# Hong Kong, ZA Bank 
+DOMAIN-SUFFIX,za.group
+
+# Hong Kong, HSBC
+DOMAIN-SUFFIX,hsbc.com.hk
+
+# Hong Kong, WeLab Bank 
+DOMAIN-SUFFIX,welab.bank
+
+# Hong Kong, livi Bank
+DOMAIN-SUFFIX,livibank.com
+
+# Singapore, OCBC 
+DOMAIN-SUFFIX,ocbc.com
+
+# Japan, Post Bank
 DOMAIN-SUFFIX,jp-bank.japanpost.jp
 
-#JCB
+# Japan, JCB
 DOMAIN-SUFFIX,jcb.co.jp
 
-#Bank of China International
-DOMAIN-SUFFIX,bankofchina.com
+# Japan, SMBC 
+DOMAIN-SUFFIX,smbc.co.jp
