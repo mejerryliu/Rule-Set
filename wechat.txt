@@ -1,0 +1,3 @@
+IP-ASN,132203
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wechat.com
