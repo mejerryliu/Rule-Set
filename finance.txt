@@ -1,12 +1,35 @@
+#BOC
 DOMAIN-SUFFIX,boc.cn
+
+#ICBC
 DOMAIN-SUFFIX,icbc.com.cn
+
+#CMB
 DOMAIN-SUFFIX,cmbchina.com
+
+#BOC HK
 DOMAIN-SUFFIX,bochk.com
+
+#ZA Bank
 DOMAIN-SUFFIX,za.group
+
+#CIB
 DOMAIN-SUFFIX,cib.com.cn
+
+#HSBC HK
 DOMAIN-SUFFIX,hsbc.com.hk
+
+#OCBC
 DOMAIN-SUFFIX,ocbc.com
+
+#PayPal
 DOMAIN-SUFFIX,paypal.com
+
+#Japan Post Bank
 DOMAIN-SUFFIX,jp-bank.japanpost.jp
+
+#JCB
 DOMAIN-SUFFIX,jcb.co.jp
+
+#Bank of China International
 DOMAIN-SUFFIX,bankofchina.com
