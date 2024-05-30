@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,livibank.com
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
 
+# UK, iFast
+DOMAIN-SUFFIX,ifastgb.com
+
 # Japan, Post Bank
 DOMAIN-SUFFIX,jp-bank.japanpost.jp
 
