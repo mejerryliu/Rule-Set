@@ -50,3 +50,6 @@ DOMAIN-SUFFIX,jcb.co.jp
 
 # Japan, SMBC 
 DOMAIN-SUFFIX,smbc.co.jp
+
+# Japan, SBI Sumishin Net Bank
+DOMAIN-SUFFIX,netbk.co.jp
