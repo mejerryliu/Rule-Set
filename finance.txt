@@ -16,6 +16,11 @@ DOMAIN-SUFFIX,cmbchina.com
 # China, CIB
 DOMAIN-SUFFIX,cib.com.cn
 
+# China, Citic
+DOMAIN-SUFFIX,citicbank.cn
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,citicbank.com
+
 # Hong Kong, BOC 
 DOMAIN-SUFFIX,bochk.com
 
