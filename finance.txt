@@ -1,6 +1,9 @@
 # PayPal
 DOMAIN-SUFFIX,paypal.com
 
+# Wise
+DOMAIN-SUFFIX,wise.com
+
 # International, Bank of China
 DOMAIN-SUFFIX,bankofchina.com
 
