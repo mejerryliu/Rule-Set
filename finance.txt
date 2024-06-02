@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,livibank.com
 
 # Hong Kong, FSM
 DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,fundsupermart.com.hk
+DOMAIN-SUFFIX,fsmone.com.hk
 
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
