@@ -61,3 +61,6 @@ DOMAIN-SUFFIX,smbc.co.jp
 
 # Japan, SBI Sumishin Net Bank
 DOMAIN-SUFFIX,netbk.co.jp
+
+# Japan, Kyash
+DOMAIN-SUFFIX,kyash.co
