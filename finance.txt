@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,wise.com
 # International, Bank of China
 DOMAIN-SUFFIX,bankofchina.com
 
+# International, FSM
+DOMAIN-SUFFIX,fundsupermart.com
+DOMAIN-SUFFIX,fundsupermart.com.hk
+DOMAIN-SUFFIX,fsmone.com.hk
+DOMAIN-SUFFIX,fsmone.com
+
 # China, BOC
 DOMAIN-SUFFIX,boc.cn
 
@@ -38,12 +44,6 @@ DOMAIN-SUFFIX,welab.bank
 
 # Hong Kong, livi Bank
 DOMAIN-SUFFIX,livibank.com
-
-# Hong Kong, FSM
-DOMAIN-SUFFIX,fundsupermart.com
-DOMAIN-SUFFIX,fundsupermart.com.hk
-DOMAIN-SUFFIX,fsmone.com.hk
-DOMAIN-SUFFIX,fsmone.com
 
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
