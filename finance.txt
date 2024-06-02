@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,livibank.com
 DOMAIN-SUFFIX,fundsupermart.com
 DOMAIN-SUFFIX,fundsupermart.com.hk
 DOMAIN-SUFFIX,fsmone.com.hk
+DOMAIN-SUFFIX,fsmone.com
 
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
