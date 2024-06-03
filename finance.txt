@@ -48,6 +48,9 @@ DOMAIN-SUFFIX,livibank.com
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
 
+# Swiss, Swissquote
+DOMAIN-SUFFIX,swissquote.com
+
 # UK, iFast
 DOMAIN-SUFFIX,ifastgb.com
 
