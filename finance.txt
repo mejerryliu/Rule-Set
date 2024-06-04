@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,swissquote.com
 DOMAIN-SUFFIX,swissquote.ch
 
+# Swiss, Swissquote
+DOMAIN-SUFFIX,dukascopy.com
+
 # UK, iFast
 DOMAIN-SUFFIX,ifastgb.com
 
