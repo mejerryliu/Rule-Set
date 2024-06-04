@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,ocbc.com
 DOMAIN-SUFFIX,swissquote.com
 DOMAIN-SUFFIX,swissquote.ch
 
-# Swiss, DukasCopy
+# Swiss, Dukascopy
 DOMAIN-SUFFIX,dukascopy.com
 DOMAIN-SUFFIX,dukascopy.online
 
