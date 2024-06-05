@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,welab.bank
 # Hong Kong, livi Bank
 DOMAIN-SUFFIX,livibank.com
 
+# Hong Kong, NCB
+DOMAIN-SUFFIX,ncb.com.hk
+
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
 
