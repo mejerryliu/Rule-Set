@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,livibank.com
 
 # Hong Kong, NCB
 DOMAIN-SUFFIX,ncb.com.hk
+DOMAIN-SUFFIX,ncbtech.cn
 
 # Singapore, OCBC 
 DOMAIN-SUFFIX,ocbc.com
