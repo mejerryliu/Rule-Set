@@ -45,6 +45,9 @@ DOMAIN-SUFFIX,welab.bank
 # Hong Kong, livi Bank
 DOMAIN-SUFFIX,livibank.com
 
+# Hong Kong, CMB Wing Lung
+DOMAIN-SUFFIX,cmbwinglungbank.com
+
 # Hong Kong, NCB
 DOMAIN-SUFFIX,ncb.com.hk
 DOMAIN-SUFFIX,ncbtech.cn
