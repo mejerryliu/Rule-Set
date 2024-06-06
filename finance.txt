@@ -89,3 +89,12 @@ DOMAIN-SUFFIX,netbk.co.jp
 
 # Japan, Kyash
 DOMAIN-SUFFIX,kyash.co
+
+# Japan, Sony Bank
+DOMAIN-SUFFIX,moneykit.net
+
+# Japan, MUFG
+DOMAIN-SUFFIX,mufg.jp
+
+# Japan, SBI Shinsei
+DOMAIN-SUFFIX,sbishinseibank.co.jp
