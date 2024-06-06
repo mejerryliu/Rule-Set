@@ -98,3 +98,6 @@ DOMAIN-SUFFIX,mufg.jp
 
 # Japan, SBI Shinsei
 DOMAIN-SUFFIX,sbishinseibank.co.jp
+
+# Japan, PayPay
+DOMAIN-SUFFIX,paypay.ne.jp
