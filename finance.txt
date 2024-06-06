@@ -45,6 +45,15 @@ DOMAIN-SUFFIX,welab.bank
 # Hong Kong, livi Bank
 DOMAIN-SUFFIX,livibank.com
 
+# Hong Kong, Ant Bank
+DOMAIN-SUFFIX,antbank.hk
+
+# Hong Kong, Fusion Bank
+DOMAIN-SUFFIX,fusionbank.com
+
+# Hong Kong, Air Star Bank
+DOMAIN-SUFFIX,airstarbank.com
+
 # Hong Kong, CMB Wing Lung
 DOMAIN-SUFFIX,cmbwinglungbank.com
 
