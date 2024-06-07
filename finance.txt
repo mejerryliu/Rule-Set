@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,citicbank.cn
 DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,citicbank.com
 
+# China, CCB
+DOMAIN-SUFFIX,ccb.com
+
 # Hong Kong, BOC 
 DOMAIN-SUFFIX,bochk.com
 
