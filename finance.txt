@@ -104,3 +104,6 @@ DOMAIN-SUFFIX,sbishinseibank.co.jp
 
 # Japan, PayPay
 DOMAIN-SUFFIX,paypay.ne.jp
+
+# Japan, EPOS
+DOMAIN-SUFFIX,eposcard.co.jp
