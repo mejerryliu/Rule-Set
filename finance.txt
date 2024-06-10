@@ -104,6 +104,16 @@ DOMAIN-SUFFIX,sbishinseibank.co.jp
 
 # Japan, PayPay
 DOMAIN-SUFFIX,paypay.ne.jp
+DOMAIN-SUFFIX,paypay-bank.co.jp
 
 # Japan, EPOS
 DOMAIN-SUFFIX,eposcard.co.jp
+
+# Japan, Rakuten Bank
+DOMAIN-SUFFIX,rakuten-bank.co.jp
+
+# Japan, au Jibun Bank
+DOMAIN-SUFFIX,jibunbank.co.jp
+
+# Japan, Lawson Bank
+DOMAIN-SUFFIX,lawsonbank.jp
