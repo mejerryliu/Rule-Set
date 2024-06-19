@@ -78,6 +78,10 @@ DOMAIN-SUFFIX,dukascopy.online
 # UK, iFast
 DOMAIN-SUFFIX,ifastgb.com
 
+# Gibraltar, Xapo
+DOMAIN-SUFFIX,xapobank.com
+DOMAIN-SUFFIX,xapo.com
+
 # Japan, Post Bank
 DOMAIN-SUFFIX,jp-bank.japanpost.jp
 
