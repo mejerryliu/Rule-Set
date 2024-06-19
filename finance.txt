@@ -88,6 +88,13 @@ DOMAIN-SUFFIX,jp-bank.japanpost.jp
 # Japan, JCB
 DOMAIN-SUFFIX,jcb.co.jp
 
+# Japan, GMO
+DOMAIN-SUFFIX,gmo-aozora.com
+
+# Japan, AEON
+DOMAIN-SUFFIX,aeon.co.jp
+DOMAIN-SUFFIX,aeonbank.co.jp
+
 # Japan, SMBC 
 DOMAIN-SUFFIX,smbc.co.jp
 
