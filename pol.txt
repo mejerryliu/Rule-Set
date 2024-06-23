@@ -1,0 +1,21 @@
+# CA
+DOMAIN-SUFFIX,gc.ca
+DOMAIN-SUFFIX,canada.ca
+
+# US
+DOMAIN-WILDCARD,*.gov
+
+# KR
+DOMAIN-SUFFIX,go.kr
+
+# UK
+DOMAIN-SUFFIX,gov.uk
+
+# HK
+DOMAIN-SUFFIX,gov.hk
+
+# JP
+DOMAIN-SUFFIX,go.jp
+
+# AU
+DOMAIN-SUFFIX,gov.au
