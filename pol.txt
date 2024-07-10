@@ -19,3 +19,15 @@ DOMAIN-SUFFIX,go.jp
 
 # AU
 DOMAIN-SUFFIX,gov.au
+
+# TW
+DOMAIN-SUFFIX,gov.tw
+
+# MO
+DOMAIN-SUFFIX,gov.mo
+
+# CN
+DOMAIN-SUFFIX,gov.cn
+
+# FR
+DOMAIN-SUFFIX,gouv.fr
