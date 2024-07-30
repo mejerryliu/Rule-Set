@@ -48,3 +48,18 @@ DOMAIN-SUFFIX,gob.mx
 # SG
 DOMAIN-SUFFIX,gov.sg
 
+# IE
+DOMAIN-SUFFIX,gov.ie
+
+#AE
+DOMAIN-SUFFIX,gov.ae
+DOMAIN-SUFFIX,u.ae
+
+# ES
+DOMAIN-SUFFIX,gob.es
+
+# TR
+DOMAIN-SUFFIX,gov.tr
+
+# TH
+DOMAIN-SUFFIX,go.th
