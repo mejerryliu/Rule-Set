@@ -63,3 +63,9 @@ DOMAIN-SUFFIX,gov.tr
 
 # TH
 DOMAIN-SUFFIX,go.th
+
+# MY
+DOMAIN-SUFFIX,gov.my
+
+# FJ
+DOMAIN-SUFFIX,gov.fj
