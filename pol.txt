@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,gov.au
 
 # TW
 DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,roc-taiwan.org
 
 # MO
 DOMAIN-SUFFIX,gov.mo
@@ -34,3 +35,16 @@ DOMAIN-SUFFIX,gouv.fr
 
 # NZ
 DOMAIN-SUFFIX,govt.nz
+
+# BR
+DOMAIN-SUFFIX,gov.br
+
+# QA
+DOMAIN-SUFFIX,gov.qa
+
+# MX
+DOMAIN-SUFFIX,gob.mx
+
+# SG
+DOMAIN-SUFFIX,gov.sg
+
