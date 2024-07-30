@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,gov.cn
 
 # FR
 DOMAIN-SUFFIX,gouv.fr
+
+# NZ
+DOMAIN-SUFFIX,govt.nz
