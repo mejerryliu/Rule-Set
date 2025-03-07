@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,paypal.com
 # Wise
 DOMAIN-SUFFIX,wise.com
 
+# Revolut
+DOMAIN-SUFFIX,revolut.com
+
 # International, Bank of China
 DOMAIN-SUFFIX,bankofchina.com
 
