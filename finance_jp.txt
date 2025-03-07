@@ -1,0 +1,46 @@
+# Japan, Post Bank
+DOMAIN-SUFFIX,jp-bank.japanpost.jp
+
+# Japan, JCB
+DOMAIN-SUFFIX,jcb.co.jp
+
+# Japan, GMO
+DOMAIN-SUFFIX,gmo-aozora.com
+
+# Japan, AEON
+DOMAIN-SUFFIX,aeon.co.jp
+DOMAIN-SUFFIX,aeonbank.co.jp
+
+# Japan, SMBC 
+DOMAIN-SUFFIX,smbc.co.jp
+
+# Japan, SBI Sumishin Net Bank
+DOMAIN-SUFFIX,netbk.co.jp
+
+# Japan, Kyash
+DOMAIN-SUFFIX,kyash.co
+
+# Japan, Sony Bank
+DOMAIN-SUFFIX,moneykit.net
+
+# Japan, MUFG
+DOMAIN-SUFFIX,mufg.jp
+
+# Japan, SBI Shinsei
+DOMAIN-SUFFIX,sbishinseibank.co.jp
+
+# Japan, PayPay
+DOMAIN-SUFFIX,paypay.ne.jp
+DOMAIN-SUFFIX,paypay-bank.co.jp
+
+# Japan, EPOS
+DOMAIN-SUFFIX,eposcard.co.jp
+
+# Japan, Rakuten Bank
+DOMAIN-SUFFIX,rakuten-bank.co.jp
+
+# Japan, au Jibun Bank
+DOMAIN-SUFFIX,jibunbank.co.jp
+
+# Japan, Lawson Bank
+DOMAIN-SUFFIX,lawsonbank.jp
