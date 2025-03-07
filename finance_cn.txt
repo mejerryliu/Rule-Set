@@ -1,0 +1,19 @@
+# China, BOC
+DOMAIN-SUFFIX,boc.cn
+
+# China, ICBC
+DOMAIN-SUFFIX,icbc.com.cn
+
+# China, CMB
+DOMAIN-SUFFIX,cmbchina.com
+
+# China, CIB
+DOMAIN-SUFFIX,cib.com.cn
+
+# China, Citic
+DOMAIN-SUFFIX,citicbank.cn
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,citicbank.com
+
+# China, CCB
+DOMAIN-SUFFIX,ccb.com
