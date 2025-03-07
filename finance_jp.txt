@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,jibunbank.co.jp
 
 # Japan, Lawson Bank
 DOMAIN-SUFFIX,lawsonbank.jp
+
+# Japan, Revolut
+DOMAIN-SUFFIX,revolut.com
