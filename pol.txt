@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,roc-taiwan.org
 DOMAIN-SUFFIX,gov.mo
 
 # CN
-DOMAIN-SUFFIX,gov.cn
+# DOMAIN-SUFFIX,gov.cn
 
 # FR
 DOMAIN-SUFFIX,gouv.fr
